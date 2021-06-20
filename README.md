@@ -56,10 +56,4 @@ npm install -g truffle
 
 ### 启动
 
-```shell
-// 安装依赖
-yarn install
-// 启动项目
-npm start
-```
-
+改变了readme的内容
