@@ -56,4 +56,4 @@ npm install -g truffle
 
 ### 启动
 
-改变了readme的内容
+我要是在这儿把readme也改了岂不是冲突了, 呀呀呀, 那不是完蛋玩意儿. 手动修改冲突完成
